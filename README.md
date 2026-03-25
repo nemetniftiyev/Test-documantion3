@@ -43,9 +43,9 @@ Misal:
 ---
 
 ## * Test Summary Report
-- **Ümumi test case-lər:** 50  
-- **Uğurlu nəticələr:** 42 (84%)  
-- **Uğursuz nəticələr:** 8 (16%)  
+- **Ümumi test case-lər:** 40 
+- **Uğurlu nəticələr:** 34 (84%)  
+- **Uğursuz nəticələr:** 6 (16%)  
 
 **Əsas problemlər:**  
 - Mobil versiyada bəzi UI elementlərinin yerləşməsi düzgün deyil  
