@@ -43,7 +43,7 @@ Misal:
 ---
 
 ## * Test Summary Report
-- **Ümumi test case-lər:** 40 
+- **Ümumi test caselər:** 40 
 - **Uğurlu nəticələr:** 34 (84%)  
 - **Uğursuz nəticələr:** 6 (16%)  
 
