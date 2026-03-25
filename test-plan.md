@@ -5,12 +5,12 @@ Bu test plan "BookNest" saytının əsas funksiyalarının düzgün işləməsin
 
 ## 2. Testin Məqsədləri
 - Kitab təfsilatlarının - janr, yazıçı və s. düzgün göstərilməsini yoxlamaq
-- saytın bütün səhifələrinin işləməsini yoxlamaq
+- Saytın bütün səhifələrinin işləməsini yoxlamaq
 - Qeydiyyat və giriş proseslərinin doğruluğunu yoxlamaq
 - "Qruplar" bölməsində rəy və media paylaşımının işləməsini yoxlamaq
 
 ## 3. Testin Əhatə Dairəsi
-- **Functional Tests:** Hər bir user story acceptance kriteriyalarına uyğun yoxlanacaq
+- **Functional Testing:** Hər bir user story acceptance kriteriyalarına uyğun yoxlanacaq
 - **Compatibility Testing:** Mobil və desktop versiyalarda test
 - **Performans Testing:** Əsas səhifələrin yüklənmə sürəti və cavab müddəti
 - **UI Testing:** Dizayn elementlərinin düzgün görünməsi
