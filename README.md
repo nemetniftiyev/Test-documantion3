@@ -58,5 +58,5 @@ Misal:
 
 ---
 
-## 🏁 Nəticə
+## * Nəticə
 BookNest platforması ümumilikdə stabil və işləkdir. Əsas funksiyalar uğurla testdən keçib. Mövcud problemlərin həlli ilə platforma daha etibarlı, sürətli və istifadəçi dostu olacaq.
