@@ -8,7 +8,7 @@
    - **Acceptance Criteria:**  
      - "Kitab axtar" düyməsi aktivdir və klik edilə bilir  
      - Klik edildikdə sistem mövcud kitab janrlarını siyahı şəklində göstərir  
-     - Hər janr haqqında qısa məlumat (təsvir, nümunə kitablar) görünür  
+     - Hər janr haqqında qısa məlumat görünür  
      - Siyahı həm desktop, həm də mobil görünüşündə düzgün işləyir
 2. **User Story:**  
    Mən istifadəçi olaraq istəyirəm ki, seçdiyim kitabın detallı səhifəsinə baxa bilim, müəllif və janr haqqında məlumat əldə edim.  
