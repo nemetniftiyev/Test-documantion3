@@ -1,4 +1,4 @@
-# BookNest Test Plan
+# BookNest - Test Plan
 
 ## 1. Giriş
 Bu test plan "BookNest" saytının əsas funksiyalarının düzgün işləməsini yoxlamaq üçün hazırlanmışdır. Məqsəd – istifadəçi təcrübəsini təmin etmək, səhvləri vaxtında aşkar etmək və sistemin etibarlılığını artırmaqdır.
