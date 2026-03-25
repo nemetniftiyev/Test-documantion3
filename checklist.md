@@ -8,7 +8,7 @@
 
 ## 2. Qeydiyyat və Giriş
 - [ ] Yeni istifadəçi qeydiyyatı uğurla tamamlanır
-- [ ] Doğrulama email-i vaxtında çatır
+- [ ] Doğrulama emaili vaxtında çatır
 - [ ] İstifadəçi giriş prosesi düzgün işləyir
 - [ ] Parol bərpa funksiyası işləyir
 - [ ] Qeydiyyatdan sonra istifadəçi profili düzgün açılır
@@ -24,7 +24,7 @@
 - [ ] Chrome üzərində sayt düzgün işləyir
 - [ ] Firefox üzərində sayt düzgün işləyir
 - [ ] Edge üzərində sayt düzgün işləyir
-- [ ] Mobil və desktop versiyalarda dizayn uyğunluğuna baxılır
+- [ ] Mobil versiyalarda dizayn uyğunluğuna baxılır
 
 ## 5. Performans və UI
 - [ ] Səhifələrin yüklənmə sürəti yaxşıdır
