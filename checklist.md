@@ -1,32 +1,25 @@
-# BookNest - Checklist
+# BookNest - Test Checklist 
 
-## 1. Əsas Funksionallıq
-- [ ] Əsas səhifə problemsiz yüklənir
-- [ ] Kitab janrları düzgün siyahılanır
-- [ ] Kitab detallı səhifələrinə keçid işləyir
-- [ ] Kitab müəllifləri haqqında məlumat səhifəsi açılır
-
-## 2. Qeydiyyat və Giriş
-- [ ] Yeni istifadəçi qeydiyyatı uğurla tamamlanır
-- [ ] Doğrulama emaili vaxtında çatır
-- [ ] İstifadəçi giriş prosesi düzgün işləyir
-- [ ] Parol bərpa funksiyası işləyir
-- [ ] Qeydiyyatdan sonra istifadəçi profili düzgün açılır
-
-## 3. Qruplar Bölməsi
-- [ ] Qruplarda yeni rəy əlavə etmək mümkündür
-- [ ] Media faylları uğurla yüklənir
-- [ ] Paylaşılan rəy və media düzgün görünür
-- [ ] Mövcud rəylərə cavab yazmaq mümkündür
-- [ ] Qruplarda istifadəçi adı və şəkli düzgün göstərilir
-
-## 4. Compatibility Testing
-- [ ] Chrome üzərində sayt düzgün işləyir
-- [ ] Firefox üzərində sayt düzgün işləyir
-- [ ] Edge üzərində sayt düzgün işləyir
-- [ ] Mobil versiyalarda dizayn uyğunluğuna baxılır
-
-## 5. Performans və UI
-- [ ] Səhifələrin yüklənmə sürəti yaxşıdır
-- [ ] UI elementləri bütün cihazlarda düzgün görünür
+| #   | Test Maddəsi                                | Status       |
+|-----|---------------------------------------------|--------------|
+| 1   | Əsas səhifə problemsiz yüklənir             | ✅ Keçdi      |
+| 2   | Kitab janrları düzgün siyahılanır           | ✅ Keçdi      |
+| 3   | Digər məlumat səhifələri açılır              | ✅ Keçdi      |
+| 4   | Axtarış funksiyası düzgün işləyir           | ⚠️ Qismən     |
+| 5   | Müəllif səhifəsi düzgün açılır              | ✅ Keçdi      |
+| 6   | Yeni istifadəçi qeydiyyatı uğurla tamamlanır| ✅ Keçdi      |
+| 7   | Email doğrulama linki vaxtında gəlir        | ❌ Uğursuz    |
+| 8   | Login prosesi düzgün işləyir                | ✅ Keçdi      |
+| 9   | Parol bərpa funksiyası işləyir              | ✅ Keçdi      |
+| 10  | Logout funksiyası düzgün işləyir            | ✅ Keçdi      |
+| 11  | Qruplarda yeni rəy əlavə etmək mümkündür     | ✅ Keçdi      |
+| 12  | Media faylları uğurla yüklənir              | ⚠️ Yavaş      |
+| 13  | Mövcud rəylərə cavab yazmaq mümkündür        | ✅ Keçdi      |
+| 14  | İstifadəçi adı və şəkli düzgün göstərilir    | ✅ Keçdi      |
+| 15  | Chrome brauzerində sayt düzgün işləyir       | ✅ Keçdi      |
+| 16  | Firefox brauzerində sayt düzgün işləyir      | ✅ Keçdi      |
+| 17  | Safari brauzerində sayt düzgün işləyir       | ✅ Keçdi      |
+| 18  | Edge brauzerində sayt düzgün işləyir         | ✅ Keçdi      |
+| 19  | Mobil versiyada UI elementləri düzgün görünür| ❌ Problemli  |
+| 20  | Desktop versiyada UI elementləri düzgün görünür| ✅ Keçdi   |
 
