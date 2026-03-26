@@ -1,6 +1,6 @@
 # BookNest - Test Checklist 
 
-| #   | Test Maddəsi                                | Status       |
+| #   | Testlər                                | Status       |
 |-----|---------------------------------------------|--------------|
 | 1   | Əsas səhifə problemsiz yüklənir             | ✅ Keçdi      |
 | 2   | Kitab janrları düzgün siyahılanır           | ✅ Keçdi      |
